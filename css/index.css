@@ -1,0 +1,91 @@
+body {
+  margin: 0;
+  font-family: "Darker Grotesque", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.header {
+  background-color: #f8f3ec;
+}
+
+.navbar .container-fluid {
+  border-bottom: 1px solid #6e6e6e;
+}
+
+.navbar-brand {
+  margin-left: -140px;
+  margin-right: auto;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.navbar-brand span {
+  color: #f6d88c;
+}
+
+.social-links img {
+  width: 25%;
+  height: auto;
+}
+
+/*----------------------------------------------------------*/
+.front-page {
+  background-color: #f8f3ec;
+  padding-top: 60px;
+}
+
+.front-holder {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.front-header h4 {
+  font-size: 50px;
+  font-weight: 600;
+  line-height: 1;
+}
+
+.front-text P {
+  font-size: 22px;
+}
+
+.front-button {
+  background-color: #f6d88c;
+  font-weight: 700;
+  padding: 10px 16px;
+
+  transition: background-color 0.3s linear;
+}
+
+.front-button:hover {
+  background-color: #d2ba7d;
+}
+
+.front-rating {
+  font-size: 12px;
+  line-height: 1;
+}
+
+.front-rating p {
+  margin: 0;
+}
+
+.front-rating span {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.front-img {
+  display: flex;
+}
+
+.front-img img {
+  height: 85%;
+  width: auto;
+}
+
+.front-img .col-5:first-child {
+  margin-right: 25px;
+}
