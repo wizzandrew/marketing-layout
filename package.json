@@ -1,0 +1,24 @@
+{
+  "name": "marketing-layout",
+  "version": "1.0.0",
+  "description": "building marketing page layout",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wizzandrew/marketing-layout.git"
+  },
+  "author": "Andrei Varzar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wizzandrew/marketing-layout/issues"
+  },
+  "homepage": "https://github.com/wizzandrew/marketing-layout#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
