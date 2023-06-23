@@ -5,7 +5,7 @@
 
 The scope of this project is to build layout for a responsive web page based on a Figma design. 
 
-The stack consists of HTML5, CSS3, Bootstrap 5 technologies and lite-server npm package.
+The stack consists of ```HTML5```, ```CSS3```, ```Bootstrap 5``` technologies and lite-server npm package.
 
 
 
